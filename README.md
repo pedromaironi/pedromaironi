@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/lbwNTNl.jpg" width="1280" title="Hi I'm Quique">
+  <img src="https://i.imgur.com/lbwNTNl.jpg" width="1280" title="Hi I'm Pedro">
 </p>
 
 ### Just another Frontend Dominican Developer 🤹♂️, join me on this adventure creating Libraries, Apps and more using Frontend Technologies.
