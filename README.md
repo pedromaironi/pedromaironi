@@ -36,5 +36,7 @@ If some of these project helped you or tou your company you can 💗 **[sponsor 
 </p>
 
 ## More about me
-
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromaironi&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromaironi&layout=compact)
+[![Pedro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedromaironi)]
 
