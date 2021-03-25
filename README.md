@@ -34,7 +34,3 @@ If some of these project helped you or tou your company you can 💗 **[sponsor 
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/angular.svg" alt="Angular" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/wakatime.svg" alt="Wakatime" width="25" height="25" />
 </p>
-
-## More about me
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromaironi&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromaironi&layout=compact)
