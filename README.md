@@ -19,6 +19,7 @@
 ## Some projects I'm proud of:
 
 - <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/css.svg" alt="JavaScript" width="18" height="18" /> [Batabit](https://pedromaironi.github.io/batata-bitcoin/)
+- <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="JavaScript" width="18" height="18" /> [Batabit](https://pedromaironi.github.io/batata-bitcoin/)
 
 If some of these project helped you or tou your company you can 💗 **[sponsor me](https://github.com/sponsors/pedromaironi)**.
 
