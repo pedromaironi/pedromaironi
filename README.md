@@ -23,15 +23,3 @@
 
 If some of these project helped you or tou your company you can 💗 **[sponsor me](https://github.com/sponsors/pedromaironi)**.
 
-## I really like these technologies
-
-<p align="left">
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="JavaScript" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="TypeScript" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs_alt.svg" alt="Nodejs" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="React" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/firebase.svg" alt="Firebase" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/ionic.svg" alt="Ionic" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/angular.svg" alt="Angular" width="25" height="25" />
-<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/wakatime.svg" alt="Wakatime" width="25" height="25" />
-</p>
