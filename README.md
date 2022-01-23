@@ -19,7 +19,8 @@
 ## Some projects I'm proud of:
 
 - [Batabit](https://pedromaironi.github.io/batata-bitcoin/)
-- [Almacen Juanito7up](https://pedromaironi.github.io/homepage-uiux)
+- [Shop](https://pedromaironi.github.io/homepage-uiux)
+- Soon...
 
 If some of these project helped you or tou your company you can 💗 **[sponsor me](https://github.com/sponsors/pedromaironi)**.
 
