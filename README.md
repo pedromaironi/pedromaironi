@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/47b75af8-9d29-44de-a144-0bdf01c23be9.svg)](https://wakatime.com/@47b75af8-9d29-44de-a144-0bdf01c23be9)
+
 ## More about me:
 https://wakatime.com/badge/user/47b75af8-9d29-44de-a144-0bdf01c23be9.svg
 - 🧭 Lazy [Github](https://github.com/pedromaironi) contributor
