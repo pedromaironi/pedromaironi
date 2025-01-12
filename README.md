@@ -6,6 +6,6 @@
 - 🌍 Web [StackOverflow](https://stackoverflow.com/users/15101417/pedro-m-toribio?tab=profile)
 - 🐦 Curious [Twitter](https://twitter.com/pedromaironi) writter
 - ✒  Casual [Medium](https://medium.com/@pedromarioni) editor
-- 🛠 Linkedln [Profile](https://www.linkedin.com/in/pedro-maironi-toribio-a30514153/)
+- 🛠 Linkedln [Profile](https://www.linkedin.com/in/pedromaironi/)
 
 
